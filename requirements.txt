@@ -1,7 +1,12 @@
-
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
 pytest
+tensorflow
+torch
+requests
+bs4
+selenium
+webdriver-manager
