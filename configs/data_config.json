@@ -1,0 +1,8 @@
+{
+  "data_paths": {
+    "raw_skills": "data/raw/skills_data.csv",
+    "raw_courses": "data/raw/courses_data.csv",
+    "raw_interactions": "data/raw/user_interactions.csv",
+    "processed_data": "data/processed/preprocessed_data.pkl"
+  }
+}
