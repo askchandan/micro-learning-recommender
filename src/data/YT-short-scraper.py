@@ -314,9 +314,7 @@ class UltraDetailedYouTubeScraper:
 def main():
     # Replace with your actual YouTube Data API keys
     API_KEYS = [
-        'AIzaSyBZjBr6VRfoyJZ4sDGbA-7qGZQZCSLFiGk',
-        'AIzaSyCEnG5MLoLmY7jNVwh7d-Vwf5uunBAV3Xg',
-        'AIzaSyD3yRQEpBhSbLuqXdsBpnEQLPddm00yPGU'
+        # add multiple keys here
     ]
     
     # Initialize scraper with multiple keys
