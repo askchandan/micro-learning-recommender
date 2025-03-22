@@ -400,9 +400,7 @@ def main():
     # List of multiple API keys
     API_KEYS = [
         # now expired these ones.
-        'AIzaSyD0X6Yogb46joEmNHaSy6swPZ9RKsWmkBQ',
-        'AIzaSyAPA78IbKrS4KCR48Xt6YFd3gxQCkEpUyg',
-        'AIzaSyDDfy-2SOPkYSeFX0eyG4N_RStw-d6L7UQ'  # Add more keys
+         # Add more keys
     ]
     # Initialize scraper with multiple keys
     scraper = YouTubeScraper(API_KEYS)
